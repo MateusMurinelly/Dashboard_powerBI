@@ -1,4 +1,4 @@
-O texto à seguir tem como base o texto de Alex Souza com os contatos do mesmo ao final.
+O texto à seguir tem como base o README de Alex Souza com os contatos do mesmo ao final.
 
 # Business Intelligence
 
